@@ -294,7 +294,7 @@ print(data1.intersection(data2).collect())
 ### cogroup(otherDataset, [numPartitions])
 
 - key-value 쌍 유형의 RDD에서 사용
-- (a,b) RDD와 (a,c) RDD를 cogroup하면 (a, (Iterable <b>, iterable <c>)) 튜플 반환
+- (a,b) RDD와 (a,c) RDD를 cogroup하면 (a, (Iterable \<b>, iterable \<c>)) 튜플 반환
 
 ```python
 data1 = sc.parallelize([(1,'a'), (2,'b')])
