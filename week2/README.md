@@ -57,7 +57,7 @@ data.collect()
 # [1,2,3,4,5]
 ```
 
-![Untitled](img/collect.png)
+![Untitled](/img/collect.png)
 
 ### count()
 
