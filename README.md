@@ -5,3 +5,8 @@
 
 * week2 : pyspark를 이용한 WordCount 실습
 * week3 : Sampling (Simple Random Sampling & Stratified Sampling )
+* week4 : Similarity join
+* week5 : PBL1 (Similarity join을 이용한 친구 추천 알고리즘)
+* week6 : PageRank
+* week7 : kmeans
+* week8 : PBL2 (Block Based Page Rank)
