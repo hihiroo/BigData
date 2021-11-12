@@ -10,3 +10,4 @@
 * week6 : PageRank
 * week7 : kmeans
 * week8 : PBL2 (Block Based Page Rank)
+* week9 : Logistic Regression
